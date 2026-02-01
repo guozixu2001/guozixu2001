@@ -1,6 +1,4 @@
-- 👋 Hi, I’m a developer, a photographer, a cat lover. 
-- 👀 I’m interested in reinventing wheels😜. 
-- 🌱 I’m currently learning machine learning system.
+- 👋 Hi, I’m Zixu. 
 - 📫 How to reach me: guozixu2001@outlook.com
 
 <!---
